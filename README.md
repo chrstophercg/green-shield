@@ -14,6 +14,7 @@ Versão atual: **v0.1.0 (MVP)**
 Próxima versão: **v0.2.0 – Operação Sentinela**
 
 
+
 # 🛡 GreenShield
 
 > **Monitorando hoje para proteger o amanhã.**
